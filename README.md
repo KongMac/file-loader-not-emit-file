@@ -1,5 +1,3 @@
-# file loader for webpack
-
 ## Usage
 
 
